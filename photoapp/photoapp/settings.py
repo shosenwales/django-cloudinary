@@ -127,8 +127,8 @@ STATIC_URL = '/static/'
 
 
 cloudinary.config(
-    cloud_name = 'mallamshuaib', 
-    api_key = '152737981124377', 
-    api_secret ='gOemWdCKwWfZEZKDo8DDOAKCUWE'
+    cloud_name = '', 
+    api_key = '', 
+    api_secret =''
 )
   
